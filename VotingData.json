@@ -1,0 +1,859 @@
+{
+  "Aljunied GRC": {
+    "name": "Aljunied GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Alex Yeo Sheng Chye",
+          "Chan Hui Yuh",
+          "Chua Eng Leong",
+          "Shamsul Kamar Bin Mohamed Razali",
+          "Victor Lye Thiam Fatt"
+        ],
+        "votes": 57244
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Gerald Giam Yean Song",
+          "Sylvia Lim Swee Lian",
+          "Muhamad Faisal Bin Abdul Manap",
+          "Leon Perera",
+          "Pritam Singh"
+        ],
+        "votes": 85603
+      }
+    ],
+    "rejected_votes": 1582,
+    "seats": 5,
+    "voters": 150821,
+    "isSample": false
+  },
+  "Ang Mo Kio GRC": {
+    "name": "Ang Mo Kio GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Darryl David",
+          "Gan Thiam Poh",
+          "Lee Hsien Loong",
+          "Nadia Ahmad Samdin",
+          "Ng Ling Ling"
+        ],
+        "votes": 124430
+      },
+      {
+        "party": "RP",
+        "candidates": [
+          "Kenneth Andrew Jeyaretnam",
+          "Noraini Bte Yunus",
+          "Darren Soh Guan Soon",
+          "Yeo Yao Hui, Charles",
+          "Andy Zhu Laicheng"
+        ],
+        "votes": 48600
+      }
+    ],
+    "rejected_votes": 5009,
+    "seats": 5,
+    "voters": 185261,
+    "isSample": false
+  },
+  "Bishan-Toa Payoh GRC": {
+    "name": "Bishan-Toa Payoh GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Chee Hong Tat",
+          "Chong Kee Hiong",
+          "Ng Eng Hen",
+          "Saktiandi Bin Supaat"
+        ],
+        "votes": 62853
+      },
+      {
+        "party": "SPP",
+        "candidates": [
+          "Melvyn Chiu",
+          "Osman Sulaiman",
+          "Steve Chia",
+          "Williiamson Lee"
+        ],
+        "votes": 30594
+      }
+    ],
+    "rejected_votes": 2043,
+    "seats": 4,
+    "voters": 101220,
+    "isSample": false
+  },
+  "Chua Chu Kang GRC": {
+    "name": "Chua Chu Kang GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Don Wee",
+          "Gan Kim Yong",
+          "Low Yen Ling",
+          "Zhulkarnain Abdul Rahim"
+        ],
+        "votes": 59462
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Abdul Rahman Bin Mohamad",
+          "Choo Shaun Ming",
+          "Francis Yuen Kin Pheng",
+          "Tan Meng Wah"
+        ],
+        "votes": 41942
+      }
+    ],
+    "rejected_votes": 1410,
+    "seats": 4,
+    "voters": 106632,
+    "isSample": false
+  },
+  "East Coast GRC": {
+    "name": "East Coast GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Cheryl Chan Wei Ling",
+          "Heng Swee Keat",
+          "Mohd Maliki Bin Osman",
+          "Tan Kiat How",
+          "Tan Soon Neo Jessica"
+        ],
+        "votes": 61009
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Abdul Shariff Aboo Kassim",
+          "Kenneth Foo Seck Guan",
+          "Dylan Ng",
+          "Nicole Seah",
+          "Terence Tan Li-Chern"
+        ],
+        "votes": 53228
+      }
+    ],
+    "rejected_votes": 1393,
+    "seats": 5,
+    "voters": 121644,
+    "isSample": false
+  },
+  "Holland-Bukit Timah GRC": {
+    "name": "Holland-Bukit Timah GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Edward Chia Bing Hui",
+          "Christopher de Souza",
+          "Sim Ann",
+          "Vivian Balakrishnan"
+        ],
+        "votes": 70963
+      },
+      {
+        "party": "SDP",
+        "candidates": [
+          "Alfred Tan",
+          "James Gomez",
+          "Min Cheong",
+          "Tan Jee Say"
+        ],
+        "votes": 35972
+      }
+    ],
+    "rejected_votes": 1993,
+    "seats": 4,
+    "voters": 114973,
+    "isSample": false
+  },
+  "Jalan Besar GRC": {
+    "name": "Jalan Besar GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Denise Phua Lay Peng",
+          "Heng Chee How",
+          "Josephine Teo",
+          "Wan Rizal Wan Zakariah"
+        ],
+        "votes": 64522
+      },
+      {
+        "party": "PV",
+        "candidates": [
+          "Leong Sze Hian",
+          "Lim Tean",
+          "Michael Fang Amin",
+          "Nor Azlan Bin Sulaiman"
+        ],
+        "votes": 34185
+      }
+    ],
+    "rejected_votes": 2943,
+    "seats": 4,
+    "voters": 107720,
+    "isSample": false
+  },
+  "Jurong GRC": {
+    "name": "Jurong GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Huang Wei Zhong Shawn",
+          "Rahayu Binte Mahzam",
+          "Tan Wu Meng",
+          "Tharman Shanmugaratnam",
+          "Xie Yao Quan"
+        ],
+        "votes": 91692
+      },
+      {
+        "party": "RDU",
+        "candidates": [
+          "Alec Tok",
+          "Liyana Dhamirah",
+          "Michelle Lee Juen",
+          "Nicholas Tang",
+          "Ravi Philemon"
+        ],
+        "votes": 31191
+      }
+    ],
+    "rejected_votes": 2517,
+    "seats": 5,
+    "voters": 131058,
+    "isSample": false
+  },
+  "Marine Parade GRC": {
+    "name": "Marine Parade GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Edwin Tong Chun Fai",
+          "Mohd Fahmi Aliman",
+          "Seah Kian Peng",
+          "Tan Chuan-Jin",
+          "Tan See Leng"
+        ],
+        "votes": 74993
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Fadli Fawzi",
+          "Muhammad Azhar Abdul Latip",
+          "Nathaniel Koh",
+          "Ron Tan Jun Yen",
+          "Yee Jenn Jong"
+        ],
+        "votes": 54850
+      }
+    ],
+    "rejected_votes": 1787,
+    "seats": 5,
+    "voters": 139622,
+    "isSample": false
+  },
+  "Marsiling-Yew Tee GRC": {
+    "name": "Marsiling-Yew Tee GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Hany Soh Hui Bin",
+          "Lawrence Wong",
+          "Alex Yam Ziming",
+          "Zaqy Mohamad"
+        ],
+        "votes": 69722
+      },
+      {
+        "party": "SDP",
+        "candidates": [
+          "Benjamin Pwee",
+          "Bryan Lim Boon Heng",
+          "Damanhuri Bin Abas",
+          "Khung Wai Yeen"
+        ],
+        "votes": 40641
+      }
+    ],
+    "rejected_votes": 2097,
+    "seats": 4,
+    "voters": 117077,
+    "isSample": false
+  },
+  "Nee Soon GRC": {
+    "name": "Nee Soon GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Carrie Tan Huimin",
+          "Derrick Goh Soon Hee",
+          "Kasiviswanathan Shanmugam",
+          "Muhammad Faishal Bin Ibrahim Khan Surattee",
+          "Ng Kok Kwang, Louis"
+        ],
+        "votes": 86219
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Bowyer Bradley Peter",
+          "Damien Tay Chye Seng",
+          "Kalayarasu Manickam",
+          "Muhammad Taufik Bin Supan",
+          "Sri Nallakaruppan"
+        ],
+        "votes": 53070
+      }
+    ],
+    "rejected_votes": 2199,
+    "seats": 5,
+    "voters": 146902,
+    "isSample": false
+  },
+  "Pasir Ris-Punggol GRC": {
+    "name": "Pasir Ris-Punggol GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Desmond Tan",
+          "Janil Arusha Puthucheary",
+          "Mohamed Sharael Mohd Taha",
+          "Teo Chee Hean",
+          "Yeo Wan Ling"
+        ],
+        "votes": 100772
+      },
+      {
+        "party": "SDA",
+        "candidates": [
+          "Abu Bin Mohamed",
+          "Harminder Pal Singh s/o Gurcharan Singh",
+          "Kelvin Ong Soon Huat",
+          "Kuswadi Bin Atnawi",
+          "Lim Bak Chuan Desmond"
+        ],
+        "votes": 37179
+      },
+      {
+        "party": "PV",
+        "candidates": [
+          "Gilbert Goh Keow Wah",
+          "Lim Kay Cheow Jireh",
+          "Mohamed Nassir Bin Ismail",
+          "Prabu s/o Ramachandran",
+          "Vigneswari V. Ramachandran"
+        ],
+        "votes": 19127
+      }
+    ],
+    "rejected_votes": 3392,
+    "seats": 5,
+    "voters": 166556,
+    "isSample": false
+  },
+  "Sembawang GRC": {
+    "name": "Sembawang GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Lim Wee Kiak",
+          "Mariam Jaafar",
+          "Ong Ye Kung",
+          "Poh Li San",
+          "Vikram Nair"
+        ],
+        "votes": 94068
+      },
+      {
+        "party": "NSP",
+        "candidates": [
+          "Ivan Yeo Tiong Boon",
+          "Sathin s/o Ravindran",
+          "Sebastian Teo",
+          "Spencer Ng Chung Hon",
+          "Yadzeth Bin Haris"
+        ],
+        "votes": 45727
+      }
+    ],
+    "rejected_votes": 2947,
+    "seats": 5,
+    "voters": 147786,
+    "isSample": false
+  },
+  "Sengkang GRC": {
+    "name": "Sengkang GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Amrin Amin",
+          "Lam Pin Min",
+          "Lye Hoong Yip Raymond",
+          "Ng Chee Meng"
+        ],
+        "votes": 55214
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Louis Chua Kheng Wee",
+          "He Ting Ru",
+          "Jamus Jerome Lim",
+          "Raeesah Begum Binte Farid Khan"
+        ],
+        "votes": 60136
+      }
+    ],
+    "rejected_votes": 1194,
+    "seats": 4,
+    "voters": 120100,
+    "isSample": false
+  },
+  "Tampines GRC": {
+    "name": "Tampines GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Baey Yam Keng",
+          "Cheng Li Hui",
+          "Desmond Choo Pey Ching",
+          "Koh Poh Koon",
+          "Masagos Zulkifli"
+        ],
+        "votes": 94561
+      },
+      {
+        "party": "NSP",
+        "candidates": [
+          "Choong Hon Heng",
+          "Eugene Yeo Ren-Yuan",
+          "Mohamad Ridzwan Bin Mohammad",
+          "Reno Fong Chin Leong",
+          "Vincent Ng Kian Guan"
+        ],
+        "votes": 47819
+      }
+    ],
+    "rejected_votes": 3516,
+    "seats": 5,
+    "voters": 151589,
+    "isSample": false
+  },
+  "Tanjong Pagar GRC": {
+    "name": "Tanjong Pagar GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Alvin Tan Sheng Hui",
+          "Chan Chun Sing",
+          "Eric Chua Swee Leong",
+          "Indranee Thurai Rajah",
+          "Joan Pereira"
+        ],
+        "votes": 78079
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "A’bas Bin Kasmani",
+          "Chua Teck Leong, Michael",
+          "Harish Pillay",
+          "Soon Jun Wei, Terence",
+          "Wendy Low Wei Ling"
+        ],
+        "votes": 45609
+      }
+    ],
+    "rejected_votes": 1930,
+    "seats": 5,
+    "voters": 134494,
+    "isSample": false
+  },
+  "West Coast GRC": {
+    "name": "West Coast GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Ang Wei Neng",
+          "Desmond Lee Ti-Seng",
+          "Foo Mee Har",
+          "Rachel Ong Sin Yen",
+          "S Iswaran"
+        ],
+        "votes": 71545
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Hazel Poa",
+          "Khoo Poh Tiong Jeffrey",
+          "Leong Mun Wai",
+          "Nadarajah Loganathan",
+          "Tan Cheng Bock"
+        ],
+        "votes": 66871
+      }
+    ],
+    "rejected_votes": 1645,
+    "seats": 5,
+    "voters": 146089,
+    "isSample": false
+  },
+  "Bukit Batok SMC": {
+    "name": "Bukit Batok SMC",
+    "wasPartOf": "Jurong GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Murali Pillai"
+        ],
+        "votes": 15476
+      },
+      {
+        "party": "SDP",
+        "candidates": [
+          "Chee Soon Juan"
+        ],
+        "votes": 12764
+      }
+    ],
+    "rejected_votes": 533,
+    "seats": 1,
+    "voters": 29948,
+    "isSample": false
+  },
+  "Bukit Panjang SMC": {
+    "name": "Bukit Panjang SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Liang Eng Hwa"
+        ],
+        "votes": 18070
+      },
+      {
+        "party": "SDP",
+        "candidates": [
+          "Paul Ananth Tambyah"
+        ],
+        "votes": 15556
+      }
+    ],
+    "rejected_votes": 586,
+    "seats": 1,
+    "voters": 35437,
+    "isSample": false
+  },
+  "Hong Kah North SMC": {
+    "name": "Hong Kah North SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Amy Khor Lean Suan"
+        ],
+        "votes": 16333
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Gigene Wong"
+        ],
+        "votes": 10452
+      }
+    ],
+    "rejected_votes": 403,
+    "seats": 1,
+    "voters": 28046,
+    "isSample": false
+  },
+  "Hougang SMC": {
+    "name": "Hougang SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Lee Hong Chuang"
+        ],
+        "votes": 9776
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Dennis Tan Lip Fong"
+        ],
+        "votes": 15416
+      }
+    ],
+    "rejected_votes": 272,
+    "seats": 1,
+    "voters": 26432,
+    "isSample": false
+  },
+  "Kebun Baru SMC": {
+    "name": "Kebun Baru SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Henry Kwek Hian Chuan"
+        ],
+        "votes": 13284
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Kumaran Pillai"
+        ],
+        "votes": 7812
+      }
+    ],
+    "rejected_votes": 387,
+    "seats": 1,
+    "voters": 22623,
+    "isSample": false
+  },
+  "MacPherson SMC": {
+    "name": "MacPherson SMC",
+    "wasPartOf": "Marine Parade GRC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Tin Pei Ling"
+        ],
+        "votes": 18983
+      },
+      {
+        "party": "PPP",
+        "candidates": [
+          "Goh Meng Seng"
+        ],
+        "votes": 7477
+      }
+    ],
+    "rejected_votes": 625,
+    "seats": 1,
+    "voters": 28513,
+    "isSample": false
+  },
+  "Marymount SMC": {
+    "name": "Marymount SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Gan Siow Huang"
+        ],
+        "votes": 12143
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Ang Yong Guan"
+        ],
+        "votes": 9918
+      }
+    ],
+    "rejected_votes": 305,
+    "seats": 1,
+    "voters": 23431,
+    "isSample": false
+  },
+  "Mountbatten SMC": {
+    "name": "Mountbatten SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Lim Biow Chuan"
+        ],
+        "votes": 16227
+      },
+      {
+        "party": "PV",
+        "candidates": [
+          "Sivakumaran Chellappa"
+        ],
+        "votes": 5748
+      }
+    ],
+    "rejected_votes": 584,
+    "seats": 1,
+    "voters": 24246,
+    "isSample": false
+  },
+  "Pioneer SMC": {
+    "name": "Pioneer SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Patrick Tay Teck Guan"
+        ],
+        "votes": 14571
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Lim Cher Hong"
+        ],
+        "votes": 8285
+      },
+      {
+        "party": "IC",
+        "candidates": [
+          "Cheang Peng Wah"
+        ],
+        "votes": 654
+      }
+    ],
+    "rejected_votes": 350,
+    "seats": 1,
+    "voters": 24653,
+    "isSample": false
+  },
+  "Potong Pasir SMC": {
+    "name": "Potong Pasir SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Sitoh Yih Pin"
+        ],
+        "votes": 11232
+      },
+      {
+        "party": "SPP",
+        "candidates": [
+          "Jose Raymond"
+        ],
+        "votes": 7275
+      }
+    ],
+    "rejected_votes": 278,
+    "seats": 1,
+    "voters": 19731,
+    "isSample": false
+  },
+  "Punggol West SMC": {
+    "name": "Punggol West SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Sun Xueling"
+        ],
+        "votes": 15637
+      },
+      {
+        "party": "WP",
+        "candidates": [
+          "Tan Chen Chen"
+        ],
+        "votes": 10012
+      }
+    ],
+    "rejected_votes": 216,
+    "seats": 1,
+    "voters": 26587,
+    "isSample": false
+  },
+  "Radin Mas SMC": {
+    "name": "Radin Mas SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Melvin Yong Yik Chye"
+        ],
+        "votes": 16834
+      },
+      {
+        "party": "RP",
+        "candidates": [
+          "Kumar Appavoo"
+        ],
+        "votes": 5905
+      }
+    ],
+    "rejected_votes": 817,
+    "seats": 1,
+    "voters": 24931,
+    "isSample": false
+  },
+  "Yio Chu Kang SMC": {
+    "name": "Yio Chu Kang SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Yip Hon Weng"
+        ],
+        "votes": 14756
+      },
+      {
+        "party": "PSP",
+        "candidates": [
+          "Kayla Low Shu Yu"
+        ],
+        "votes": 9500
+      }
+    ],
+    "rejected_votes": 413,
+    "seats": 1,
+    "voters": 25962,
+    "isSample": false
+  },
+  "Yuhua SMC": {
+    "name": "Yuhua SMC",
+    "parties": [
+      {
+        "party": "PAP",
+        "candidates": [
+          "Grace Fu Hai Yien"
+        ],
+        "votes": 14111
+      },
+      {
+        "party": "SDP",
+        "candidates": [
+          "Robin Low"
+        ],
+        "votes": 5894
+      }
+    ],
+    "rejected_votes": 406,
+    "seats": 1,
+    "voters": 21351,
+    "isSample": false
+  }
+}

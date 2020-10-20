@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>GE2020 dashboard</title>
+	<script src="https://d3js.org/d3.v5.min.js"></script>
+	<script src="//d3js.org/topojson.v1.min.js"></script>
+	<script src="https://d3js.org/d3-geo.v1.min.js"></script>
+	<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body>
+	<div class="flex">
+		<div class="img"><img src="vote.jpg"></div>
+		<div class="header">
+			<h2><text>GENERAL ELECTION 2020 DASHBOARD</text></h2>
+		</div>
+	</div>
+	<div id="infoPanel" style="visibility: hidden;">
+		<svg id="barChartSvg" width="300" height="200"></svg>
+	</div>
+	<script src="main.js"></script>
+</body>
+
+</html>
